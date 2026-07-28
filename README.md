@@ -47,17 +47,22 @@ The application consists of the following Kubernetes resources:
 ## 📂 Project Structure
 
 ```text
-kubernetes-wordpress/
+kubernetes-deployment-using-pv/
 │
-├── mysql-secret.yaml
-├── wordpress-configmap.yaml
-├── persistent-volume.yaml
-├── persistent-volume-claim.yaml
+├── Required YAML files/
+│
+├── Screenshots/
+│
+├── Architecture.png
+├── README.md
 ├── mysql-deployment.yaml
+├── mysql-pv.yaml
+├── mysql-pvc.yaml
+├── mysql-secret.yaml
 ├── mysql-service.yaml
+├── wordpress-configmap.yaml
 ├── wordpress-deployment.yaml
-├── wordpress-service.yaml
-└── README.md
+└── wordpress-service.yaml
 ```
 
 ---
