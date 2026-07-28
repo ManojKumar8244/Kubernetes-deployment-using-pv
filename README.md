@@ -194,22 +194,12 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Suggested Screenshots
-
-Include the following screenshots in your GitHub README:
-
-* Kubernetes Pods
-* Kubernetes Services
-* Persistent Volume
-* Persistent Volume Claim
-* ConfigMap
-* Secret
-* WordPress Home Page
-* MySQL Deployment
-* kubectl get all Output
-
----
-
 ## ✅ Project Outcome
 
 Successfully deployed a production-style two-tier WordPress and MySQL application on Kubernetes with persistent storage, secure credential management, externalized configuration, and reliable service networking. The project demonstrates core Kubernetes concepts required for deploying and managing stateful containerized applications in real-world environments.
+
+## 👨‍💻 Author
+
+**Manoj Kumar Nagamulla**
+
+- GitHub: https://github.com/ManojKumar8244
